@@ -81,7 +81,7 @@ Laravel Travel App Platform.
 Clone repo
 
 ```
-git clone https://github.com/muhammadhabibfery/relaxarc-travel.git
+git clone https://github.com/KyryloNikolaiev/Laravel-Travel-App.git
 ```
 
 Install Composer
